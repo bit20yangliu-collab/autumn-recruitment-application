@@ -48,7 +48,13 @@
   "languages_and_certificates": [],
   "skills": {},
   "family": [],
-  "additional_information": {},
+  "additional_information": {
+    "cross_site_defaults": {
+      "overseas_travel_study_work_residence_or_assignment": false,
+      "overseas_identity_nationality_residency_employment_or_settlement": false,
+      "self_or_relatives_at_target_company_group_subsidiaries_or_affiliates": false
+    }
+  },
   "source_conflicts": [],
   "pending_confirmation_fields": [],
   "automation_policy": {
