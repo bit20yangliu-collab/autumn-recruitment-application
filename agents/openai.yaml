@@ -1,0 +1,4 @@
+interface:
+  display_name: "秋招简历投递"
+  short_description: "从简历建立便携资料库，给出网址即可直接填写网申"
+  default_prompt: "使用 $autumn-recruitment-application 根据本地资料库直接填写这个招聘网址，填完停在最终提交前。"
